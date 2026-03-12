@@ -1,1 +1,1 @@
-# Educational-Availability-PowerBI-Dashboard
+# Educational-Analytics-PowerBI-Dashboard
